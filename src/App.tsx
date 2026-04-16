@@ -10,7 +10,7 @@ function App() {
       <h1 className="text-4xl font-bold text-center bg-gradient-to-r from-purple-400 to-blue-500 bg-clip-text text-transparent">
         ToDO APP - DB
       </h1>
-      <div className="mt-8 w-full max-w-md">
+      <div className="mt-8 w-full max-w-3xl">
         <MyTaskList />
       </div>
     </div>
